@@ -3,9 +3,9 @@
 ## Vold 2: The Next Chapter
 ![Vold 2](http://orig07.deviantart.net/fc23/f/2015/089/5/5/vold_2__the_next_chapter_by_thearakattack-d8ifq1h.jpg)
 
-**GTK 3.14**
-**Gnome Shell**
-**Unity**
+* **GTK 3.14**
+* **Gnome Shell**
+* **Unity**
 
 ### Description
 Contains 10 additional colors:
@@ -38,8 +38,8 @@ Contains 10 additional colors:
 ## Zukitre
 ![Zukitre](http://fc09.deviantart.net/fs70/f/2014/298/f/d/zukitre_by_lassekongo83-d846if9.png)
 
-**GTK 3.14**
-**Gnome Shell**
+* **GTK 3.14**
+* **Gnome Shell**
 
 ### Links
 * **Devianart**: http://lassekongo83.deviantart.com/art/Zukitre-490751685
