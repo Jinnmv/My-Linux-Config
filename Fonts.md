@@ -54,6 +54,9 @@
 ## Monospaced Narrow
 
 ### Envy Code R
+![Envy Code R](http://images.damieng.com/blog/EnvyCodeR-PR7-Humane.png)
+
+http://damieng.com/blog/2008/05/26/envy-code-r-preview-7-coding-font-released
 
 ### PragmataPro
 ![PragmataPro](http://www.fsd.it/fonts/pragmatapro/pr+coding2.png)
