@@ -57,6 +57,8 @@ Contains 10 additional colors:
 * **Gnome-Look**:
 * **Github**: http://www.deviantart.com/users/outgoing?https://github.com/lassekongo83/zuki-themes
 
+# Gnome Shell themes
+
 ## Shine
 ![Shine](http://fc03.deviantart.net/fs70/i/2012/174/b/a/gnome_shell___shine_by_satya164-d4e9crl.png)
 
