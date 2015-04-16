@@ -1,9 +1,39 @@
 **Table of Contents:**
-* [GTK Themes](#gtk-themes)
+* [GTK3 Themes](#gtk-themes)
 * [GNOME Shell Themes](#gnome-shell-themes)
 
 
-# GTK Themes
+# GTK3 Themes
+
+## Iris Dark
+![Iris Dark](http://fc01.deviantart.net/fs70/f/2015/042/7/a/iris_dark_gtk_theme__v1_9_by_thevirtualdragon-d73sf8i.png)
+
+### Compatible
+* GTK 3.10, 3.12
+
+### Links
+* **Deviantart**: http://thevirtualdragon.deviantart.com/art/Iris-Dark-Gtk-Theme-v1-9-429628194
+* **Github**: https://github.com/xyl0n/iris/
+
+## Iris Light
+![Iris Light](http://fc05.deviantart.net/fs70/f/2014/247/d/e/iris_light_gtk_theme__v1_7_by_thevirtualdragon-d73dv3h.png)
+
+### Compatible
+* GTK 3.10
+
+### Links
+* **Deviantart**: http://thevirtualdragon.deviantart.com/art/Iris-Light-Gtk-Theme-v1-7-428948909
+* **Github**: https://github.com/xyl0n/iris-light
+
+## Iris Night
+![Iris Night](http://fc01.deviantart.net/fs70/f/2014/247/6/c/iris_night_gtk_theme__v1_1_by_thevirtualdragon-d7ujtuu.png)
+
+### Compatible
+* GTK 3.10, 3.12
+
+### Links
+* **Deviantart**: http://thevirtualdragon.deviantart.com/art/Iris-Night-Gtk-Theme-v1-1-474576870
+* **Github**: https://github.com/xyl0n/iris-light
 
 ## Vold 2: The Next Chapter
 ![Vold 2](http://orig07.deviantart.net/fc23/f/2015/089/5/5/vold_2__the_next_chapter_by_thearakattack-d8ifq1h.jpg)
@@ -36,6 +66,27 @@ Contains 10 additional colors:
 ### Links
 * **Deviantart**: http://www.deviantart.com/art/Vold-2-The-Next-Chapter-514696085
 * **Gnome-Look**: http://gnome-look.org/content/show.php/Vold+2%3A+The+Next+Chapter?content=168976
+
+## Vertex
+![Vertex](http://orig09.deviantart.net/c221/f/2015/066/0/4/vertex___theme_by_horst3180-d7s7ycx.jpg)
+
+### Compatible
+* GTK
+* GNOME Shell 3.10, 3.12, 3.14, 3.16
+* Unity
+* Pantheon
+
+### Description
+Vertex GTK theme contains three variants: Vertex (dark header-bars and toolbars), Vertex-Light (completely light) and Vertex-Dark (completely dark).
+
+For Elementary OS Freya, please use the 3.14 version.
+
+Chrome/Chromium and Frefox themes are included.
+
+### Links
+* **Deviantart**:http://horst3180.deviantart.com/art/Vertex-Theme-470663601
+* **Gnome-Look**: http://gnome-look.org/content/show.php/Vertex+-+Theme?content=166318
+* **Github**: https://github.com/horst3180/Vertex-theme/
 
 ## Zukitre
 ![Zukitre](http://fc09.deviantart.net/fs70/f/2014/298/f/d/zukitre_by_lassekongo83-d846if9.png)
