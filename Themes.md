@@ -9,9 +9,9 @@
 ![Vold 2](http://orig07.deviantart.net/fc23/f/2015/089/5/5/vold_2__the_next_chapter_by_thearakattack-d8ifq1h.jpg)
 
 ### Compatible
-* **GTK 3.14**
-* **Gnome Shell**
-* **Unity**
+* GTK 3.14
+* Gnome Shell
+* Unity
 
 ### Description
 Contains 10 additional colors:
@@ -25,10 +25,6 @@ Contains 10 additional colors:
 - Purple
 - Red
 - Teal
-
-**Compatible DEs:**
-- Unity
-- GNOME
 
 **NOT Compatible DEs:**
 - KDE
