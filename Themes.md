@@ -45,3 +45,14 @@ Contains 10 additional colors:
 * **Devianart**: http://lassekongo83.deviantart.com/art/Zukitre-490751685
 * **Gnome-Look**:
 * **Github**: https://github.com/lassekongo83/zuki-themes
+
+## Zukitwo
+![Zukitwo](http://fc07.deviantart.net/fs70/f/2014/088/4/8/zukitwo_by_lassekongo83-d3df2ot.jpg)
+
+* **GTK 3.14**
+* **Gnome Shell**
+
+### Links
+* **Devianart**: http://me4oslav.deviantart.com/art/Zukitwo-203936861
+* **Gnome-Look**:
+* **Github**: http://www.deviantart.com/users/outgoing?https://github.com/lassekongo83/zuki-themes
