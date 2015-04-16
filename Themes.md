@@ -1,6 +1,6 @@
 **Table of Contents:**
 * [GTK Themes](#gtk-themes)
-* [Gnome Shell Themes](#gnome-shell-themes)
+* [GNOME Shell Themes](#gnome-shell-themes)
 
 
 # GTK Themes
@@ -8,6 +8,7 @@
 ## Vold 2: The Next Chapter
 ![Vold 2](http://orig07.deviantart.net/fc23/f/2015/089/5/5/vold_2__the_next_chapter_by_thearakattack-d8ifq1h.jpg)
 
+### Compatible
 * **GTK 3.14**
 * **Gnome Shell**
 * **Unity**
@@ -43,8 +44,9 @@ Contains 10 additional colors:
 ## Zukitre
 ![Zukitre](http://fc09.deviantart.net/fs70/f/2014/298/f/d/zukitre_by_lassekongo83-d846if9.png)
 
-* **GTK 3.14**
-* **Gnome Shell**
+### Compatible
+* GTK 3.14
+* Gnome Shell
 
 ### Links
 * **Devianart**: http://lassekongo83.deviantart.com/art/Zukitre-490751685
@@ -54,20 +56,22 @@ Contains 10 additional colors:
 ## Zukitwo
 ![Zukitwo](http://fc07.deviantart.net/fs70/f/2014/088/4/8/zukitwo_by_lassekongo83-d3df2ot.jpg)
 
-* **GTK 3.14**
-* **Gnome Shell**
+### Compatible
+* GTK 3.14
+* Gnome Shell
 
 ### Links
 * **Devianart**: http://me4oslav.deviantart.com/art/Zukitwo-203936861
 * **Gnome-Look**:
 * **Github**: http://www.deviantart.com/users/outgoing?https://github.com/lassekongo83/zuki-themes
 
-# Gnome Shell Themes
+# GNOME Shell Themes
 
 ## Shine
 ![Shine](http://fc03.deviantart.net/fs70/i/2012/174/b/a/gnome_shell___shine_by_satya164-d4e9crl.png)
 
-* **Gnome Shell**
+### Compatible
+* GNOME Shell 3.4
 
 ```
 sudo add-apt-repository ppa:satyajit-happy/themes
@@ -76,4 +80,14 @@ sudo apt-get update && sudo apt-get install gnome-shell-theme-shine
 
 ### Links
 * **Devianart**: http://satya164.deviantart.com/art/Gnome-Shell-Shine-265815777
-*  **Gnome-Look**: http://gnome-look.org/content/show.php/Shine?content=146985
+* **Gnome-Look**: http://gnome-look.org/content/show.php/Shine?content=146985
+
+## Google+
+![Google+](http://half-left.deviantart.com/art/GNOME-Shell-Google-306184522)
+
+### Compatible
+* GNOME Shell 3.4
+
+### Links
+* **Devianart**: http://half-left.deviantart.com/art/GNOME-Shell-Google-306184522
+
