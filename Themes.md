@@ -69,10 +69,14 @@ Contains 10 additional colors:
 ### Compatible
 * GNOME Shell 3.4
 
+### Description
+Install from ppa for Ubuntu-based distros:
 ```
 sudo add-apt-repository ppa:satyajit-happy/themes
 sudo apt-get update && sudo apt-get install gnome-shell-theme-shine
 ```
+
+For GNOME Shell 3.6 or 3.8, use install [Elegance Colors](http://fav.me/d525x6c) instead, and choose the preset Clear.
 
 ### Links
 * **Devianart**: http://satya164.deviantart.com/art/Gnome-Shell-Shine-265815777
