@@ -56,3 +56,17 @@ Contains 10 additional colors:
 * **Devianart**: http://me4oslav.deviantart.com/art/Zukitwo-203936861
 * **Gnome-Look**:
 * **Github**: http://www.deviantart.com/users/outgoing?https://github.com/lassekongo83/zuki-themes
+
+## Shine
+![Shine](http://fc03.deviantart.net/fs70/i/2012/174/b/a/gnome_shell___shine_by_satya164-d4e9crl.png)
+
+* **Gnome Shell**
+
+```
+sudo add-apt-repository ppa:satyajit-happy/themes
+sudo apt-get update && sudo apt-get install gnome-shell-theme-shine
+```
+
+### Links
+* **Devianart**: http://satya164.deviantart.com/art/Gnome-Shell-Shine-265815777
+*  **Gnome-Look**: http://gnome-look.org/content/show.php/Shine?content=146985
