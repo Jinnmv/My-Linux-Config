@@ -1,6 +1,6 @@
 **Table of Contents:**
-* [GTK Themes](#GTK+Themes)
-* Gnome Shell themes
+* [GTK Themes](#gtk+Themes)
+* [Gnome Shell themes](#gnome-shell-themes)
 
 
 # GTK Themes
