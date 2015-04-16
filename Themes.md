@@ -1,3 +1,8 @@
+**Table of Contents:**
+* [GTK Themes](#GTK+Themes)
+* Gnome Shell themes
+
+
 # GTK Themes
 
 ## Vold 2: The Next Chapter
