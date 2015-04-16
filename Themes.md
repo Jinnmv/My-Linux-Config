@@ -79,7 +79,7 @@ sudo apt-get update && sudo apt-get install gnome-shell-theme-shine
 * **Gnome-Look**: http://gnome-look.org/content/show.php/Shine?content=146985
 
 ## Google+
-![Google+](http://half-left.deviantart.com/art/GNOME-Shell-Google-306184522)
+![Google+](http://fc03.deviantart.net/fs70/i/2012/156/f/a/gnome_shell___google__by_half_left-d52alhm.jpg)
 
 ### Compatible
 * GNOME Shell 3.4
