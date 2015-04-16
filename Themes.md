@@ -1,5 +1,5 @@
 **Table of Contents:**
-* [GTK Themes](#gtk+Themes)
+* [GTK Themes](#gtk-themes)
 * [Gnome Shell themes](#gnome-shell-themes)
 
 
