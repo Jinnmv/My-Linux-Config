@@ -1,6 +1,7 @@
 **Table of Contents:**
 * [GTK3 Themes](#gtk-themes)
 * [GNOME Shell Themes](#gnome-shell-themes)
+* [Other](#other)
 
 
 # GTK3 Themes
@@ -142,3 +143,14 @@ For GNOME Shell 3.6 or 3.8, use install [Elegance Colors](http://fav.me/d525x6c)
 ### Links
 * **Devianart**: http://half-left.deviantart.com/art/GNOME-Shell-Google-306184522
 
+# Other
+
+## Yosemite
+![Yosemite](http://fc08.deviantart.net/fs70/f/2014/172/a/e/yosemite_for_elementaryos__codename_yellowstone__by_synetcon-d7mmvyi.jpg)
+
+### Compatible
+* Pantheon (Elementary OS)
+
+### Links
+* **Devianart**: http://synetcon.deviantart.com/art/Yosemite-for-ElementaryOS-codename-Yellowstone-461282634
+* **Github**: https://github.com/zerouno-it/yellowstone
