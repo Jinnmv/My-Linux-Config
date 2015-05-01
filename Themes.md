@@ -67,6 +67,7 @@ Contains 10 additional colors:
 ### Links
 * **Deviantart**: http://www.deviantart.com/art/Vold-2-The-Next-Chapter-514696085
 * **Gnome-Look**: http://gnome-look.org/content/show.php/Vold+2%3A+The+Next+Chapter?content=168976
+* **GitHub**: https://github.com/thearakattack/vold2-tnc
 
 ## Vertex
 ![Vertex](http://orig09.deviantart.net/c221/f/2015/066/0/4/vertex___theme_by_horst3180-d7s7ycx.jpg)
