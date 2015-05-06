@@ -1,8 +1,10 @@
 # My Linux Config
-* Themes
-* Icons
+* [Themes](themes.md)
+* [Icons](icons.md)
 * Fonts
 * Configs
   * Vim
   * Bash
   * Zsh
+* Other stuff
+  * [GIMP](gimp.md)
