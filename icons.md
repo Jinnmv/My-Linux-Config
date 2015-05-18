@@ -102,3 +102,17 @@ sudo apt-get install captiva-icon-theme
 ![Hycons](http://fc08.deviantart.net/fs70/i/2011/195/f/e/hycons_snap_13_07_10_by_gomezhyuuga-d2szxqt.png)
 
 * http://gomezhyuuga.deviantart.com/art/Hycons-snap-14-07-11-169638293
+
+#Vimix
+![Vimix](http://orig00.deviantart.net/aca3/f/2015/123/b/f/vimix_icon_themes_by_vinceliuice-d8rydx4.jpg)
+
+> Vimix is a modern icon theme for linux desktops. Its style is mostly flat with a minimal use of shadows for depth.
+
+> This theme is base on paper-icon-theme and numix-circle-icon-theme.
+> So if you want  to get a greater experience, you need to install this two themes first.
+
+* http://vinceliuice.deviantart.com/art/Vimix-icon-themes-530683384
+* 
+
+
+http://horst3180.deviantart.com/art/Vertex-Icons-Beta-529266721
