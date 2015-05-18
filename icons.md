@@ -98,3 +98,7 @@ sudo apt-get install captiva-icon-theme
 * http://kxmylo.deviantart.com/art/Faba-Icon-Theme-425005603
 * http://mokaproject.com/faba-icon-theme/
 
+# Hycons
+![Hycons](http://fc08.deviantart.net/fs70/i/2011/195/f/e/hycons_snap_13_07_10_by_gomezhyuuga-d2szxqt.png)
+
+* http://gomezhyuuga.deviantart.com/art/Hycons-snap-14-07-11-169638293
