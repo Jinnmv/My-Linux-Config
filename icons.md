@@ -205,3 +205,5 @@ Comment=Vertex Icon theme
 
 > [Paper](http://snwh.org/paper/) is a modern icon theme whose design is based around the use of simple geometry to compose icons.
 
+* http://www.deviantart.com/art/Paper-Icons-Alpha-529383602
+* http://snwh.org/paper/
