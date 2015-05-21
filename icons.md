@@ -43,6 +43,14 @@
 
 * http://vinceliuice.deviantart.com/art/Vimix-icon-themes-530683384
 
+# Flamini
+![Flamini](http://fc08.deviantart.net/fs70/i/2014/106/0/e/flamini_icons_set_for_kde_by_kotusworks-d78m9fo.png)
+
+> This official release of Flamini icon pack for KDE SC.
+
+* http://kotusworks.deviantart.com/art/Flamini-icons-set-for-KDE-437738820
+* http://adf.ly/k1gD5
+
 # Numix Circle
 ![Numix Circle](http://fc07.deviantart.net/fs71/f/2014/223/d/3/numix_circle_linux_desktop_icon_theme_by_me4oslav-d6uxcka.png)
 
@@ -55,6 +63,24 @@ sudo apt-get install numix-icon-theme-circle
 * http://vinceliuice.deviantart.com/art/Numix-Circle-Linux-Desktop-Icon-Theme-414741466
 * https://github.com/numixproject/numix-icon-theme-circle
 * http://goo.gl/9XSSf2
+
+# Yosemite
+![Yosemite](http://fc04.deviantart.net/fs70/f/2014/362/8/7/87c2ba5bf48956862de9d6f06de13beb-d867wki.png)
+
+> I gave up after a bloody struggle, and decided to make my own Yosemite icons.  Here are the results: 100% vector svg icons themed (VERY) closely after OSX 10.10 Yosemite.
+
+Download & Install: 
+1. Install this: [github.com/numixproject/numix-…](https://github.com/numixproject/numix-icon-theme-circle)
+2. Then run in terminal:
+```
+sudo sh -c "curl https://raw.githubusercontent.com/Foggalong/hardcode-fixer/master/fix.sh | bash"
+curl https://raw.githubusercontent.com/zacpier/GnomeYosemiteIcons/master/download_from_github.sh | sh
+```
+
+Manual download/contribute: [github.com/zacpier/GnomeYosemi…](https://github.com/zacpier/GnomeYosemiteIcons)
+
+* http://hewittsamuel.deviantart.com/art/Yosemite-Icons-for-Linux-494175906
+* https://github.com/zacpier/GnomeYosemiteIcons
 
 # Evolvere
 ![Evolvere](http://fc08.deviantart.net/fs71/f/2014/152/c/a/evolvere_icon_theme_by_franksouza183-d7ae4ev.jpg)
