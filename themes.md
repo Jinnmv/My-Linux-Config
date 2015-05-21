@@ -69,6 +69,20 @@ Contains 10 additional colors:
 * **Gnome-Look**: http://gnome-look.org/content/show.php/Vold+2%3A+The+Next+Chapter?content=168976
 * **GitHub**: https://github.com/thearakattack/vold2-tnc
 
+## Paper
+![Peper](http://snwh.org/paper/screenshots/9.png)
+
+> "Paper" is a modern GTK3 desktop theme suite (I say "suite" because it is a bundle themes covering several desktop environments in one package). Its design is mostly flat with a subtle use of shadows, highlights and gradients for some depth.
+
+### Compatible
+* Unity
+* Pantheon
+* Gnome Shell
+
+
+### Links
+* http://snwh.org/paper/
+
 ## Vertex
 ![Vertex](http://orig09.deviantart.net/c221/f/2015/066/0/4/vertex___theme_by_horst3180-d7s7ycx.jpg)
 
