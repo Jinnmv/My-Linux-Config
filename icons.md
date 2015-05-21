@@ -21,7 +21,27 @@
 # Emerald
 ![Emerald](http://fc06.deviantart.net/fs70/f/2014/299/3/1/emerald_icons_theme_by_vinceliuice-d846l3k.jpg)
 
+> Clean and fresh icons theme
+> This icons theme is based on [Flattr](http://garthecho.deviantart.com/art/Flattr-376383397) icons theme and [Breeze](https://github.com/NitruxSA/plasma-next-icons) (plasma next icons) icons theme.
+
 * http://garthecho.deviantart.com/art/Emerald-icons-theme-490755152
+
+# Breeze
+![Breeze](https://camo.githubusercontent.com/5b38b1b490f61abfeda76e026c7f598a9bfcf8e9/687474703a2f2f692e696d6775722e636f6d2f6f6d45523256542e706e67)
+
+> Breeze is the new artwork for Plasma 5. This repository contains the icon theme also called Breeze.
+
+* https://github.com/NitruxSA/plasma-next-icons
+
+# Vimix
+![Vimix](http://orig00.deviantart.net/aca3/f/2015/123/b/f/vimix_icon_themes_by_vinceliuice-d8rydx4.jpg)
+
+> Vimix is a modern icon theme for linux desktops. Its style is mostly flat with a minimal use of shadows for depth.
+
+> This theme is base on paper-icon-theme and numix-circle-icon-theme.
+> So if you want  to get a greater experience, you need to install this two themes first.
+
+* http://vinceliuice.deviantart.com/art/Vimix-icon-themes-530683384
 
 # Numix Circle
 ![Numix Circle](http://fc07.deviantart.net/fs71/f/2014/223/d/3/numix_circle_linux_desktop_icon_theme_by_me4oslav-d6uxcka.png)
@@ -97,7 +117,6 @@ sudo apt-get install captiva-icon-theme
 
 * http://tiheum.deviantart.com/art/Faenza-Icons-173323228
 * https://code.google.com/p/faenza-icon-theme/
-* 
 
 ## Faenza Games
 ![Faenza Games](http://fc08.deviantart.net/fs70/i/2011/259/5/f/games_icon_pack___faenza_style_by_half_left-d351pqn.jpg)
@@ -130,16 +149,33 @@ sudo apt-get install captiva-icon-theme
 
 * http://gomezhyuuga.deviantart.com/art/Hycons-snap-14-07-11-169638293
 
-#Vimix
-![Vimix](http://orig00.deviantart.net/aca3/f/2015/123/b/f/vimix_icon_themes_by_vinceliuice-d8rydx4.jpg)
+# Vertex
+![Vertex](http://orig10.deviantart.net/921e/f/2015/116/2/b/2b91f79fe6875c6bae2ff1f36f48e3c5-d8r40td.png)
 
-> Vimix is a modern icon theme for linux desktops. Its style is mostly flat with a minimal use of shadows for depth.
+> The Vertex icon theme is designed to go well together with the [Vertex](http://horst3180.deviantart.com/art/Vertex-Theme-470663601) Gtk theme. At the moment it includes mainly icons for folders and mimetypes.
 
-> This theme is base on paper-icon-theme and numix-circle-icon-theme.
-> So if you want  to get a greater experience, you need to install this two themes first.
+Since this theme doesn't provide application icons, it needs another icon theme to inherit them. By default this theme will look for the Moka icon theme ([mokaproject.com/moka-icon-them…](http://mokaproject.com/moka-icon-theme/)) to get the missing icons. If Moka is not installed it will use the Gnome icon theme as fallback. To change the application icons, edit the `index.theme` file and replace `Moka` with the name of your preferred icon theme
 
-* http://vinceliuice.deviantart.com/art/Vimix-icon-themes-530683384
-* 
+For example, if you like the Faenza icon theme, change
+```
+[Icon Theme]
+Name=Vertex-Icons
+Inherits=Moka,gnome,hicolor
+Comment=Vertex Icon theme 
+```
+to
+```
+[Icon Theme]
+Name=Vertex-Icons
+Inherits=Faenza,gnome,hicolor
+Comment=Vertex Icon theme 
+```
 
+* http://horst3180.deviantart.com/art/Vertex-Icons-Beta-529266721
+* https://github.com/horst3180/Vertex-Icons
 
-http://horst3180.deviantart.com/art/Vertex-Icons-Beta-529266721
+# Peper
+![Peper](http://orig15.deviantart.net/b302/f/2015/116/a/a/paper_icons__alpha__by_hewittsamuel-d8r6j02.png)
+
+> [Paper](http://snwh.org/paper/) is a modern icon theme whose design is based around the use of simple geometry to compose icons.
+
