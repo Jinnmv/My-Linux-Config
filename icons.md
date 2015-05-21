@@ -92,6 +92,33 @@ sudo apt-get install captiva-icon-theme
 * http://kxmylo.deviantart.com/art/Moka-Icon-Theme-385850133
 * http://mokaproject.com/moka-icon-theme/
 
+# Faenza
+![Faenza](http://fc04.deviantart.net/fs71/f/2012/302/d/c/dce0f292dc5fb9bb1eca94554fbfdd9a-d2v6x24.png)
+
+* http://tiheum.deviantart.com/art/Faenza-Icons-173323228
+* https://code.google.com/p/faenza-icon-theme/
+* 
+
+## Faenza Games
+![Faenza Games](http://fc08.deviantart.net/fs70/i/2011/259/5/f/games_icon_pack___faenza_style_by_half_left-d351pqn.jpg)
+
+> This is a set of icons in the Faenza style for various Linux games.
+
+* http://half-left.deviantart.com/art/Games-Icon-Pack-Faenza-Style-189876623
+
+# Feanza Variants
+![Faenza Variants](http://fc09.deviantart.net/fs71/i/2010/328/f/8/faenza_variants_by_spg76-d31vkvc.png)
+
+* http://spg76.deviantart.com/art/Faenza-Variants-184551528
+
+# Faience
+![Faience](http://fc07.deviantart.net/fs71/i/2012/302/8/f/faience_icon_theme_by_tiheum-d47vo5d.png)
+
+> Faience is a Work In Progress that include [GTK3, GTK2, Gnome-Shell and Metacity themes](http://tiheum.deviantart.com/art/GTK3-Gnome-Shell-Faience-255097456) and an icon theme based on Faenza.
+
+* http://tiheum.deviantart.com/art/Faience-icon-theme-255099649
+* https://code.google.com/p/faience-theme/
+
 # Faba
 ![Faba](http://fc02.deviantart.net/fs71/f/2014/194/9/f/faba_icon_theme_by_hewittsamuel-d711cf7.png)
 
