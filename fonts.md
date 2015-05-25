@@ -62,6 +62,10 @@ https://github.com/adobe-fonts/source-code-pro/releases/latest
 
 http://terminus-font.sourceforge.net/
 
+## Menlo
+
+## Monaco
+
 # Monospaced Narrow
 
 ## Envy Code R
