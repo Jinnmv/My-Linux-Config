@@ -63,6 +63,7 @@ https://github.com/adobe-fonts/source-code-pro/releases/latest
 http://terminus-font.sourceforge.net/
 
 ![TerminusRe33](http://citkit.ru/articles/1000/newfonts24.png)
+http://files.ax86.net/terminus-ttf/files/
 
 ## Menlo
 
