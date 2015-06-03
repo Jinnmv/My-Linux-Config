@@ -6,6 +6,18 @@
 
 # GTK3 Themes
 
+## Arc
+![Arc](http://i.imgur.com/B1oroyH.jpg)
+
+### Compatible
+* Gnome/GTK 3.14 or 3.16
+* Elementary OS
+* Unity
+
+### Links
+* **Github**: https://github.com/horst3180/Arc-theme
+
+
 ## Iris Dark
 ![Iris Dark](http://orig10.deviantart.net/9cb1/f/2015/115/6/1/iris_dark_gtk_theme__v1_9_5_by_thevirtualdragon-d73sf8i.png)
 
