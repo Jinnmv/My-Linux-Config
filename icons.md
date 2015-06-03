@@ -207,3 +207,8 @@ Comment=Vertex Icon theme
 
 * http://www.deviantart.com/art/Paper-Icons-Alpha-529383602
 * http://snwh.org/paper/
+
+# EvoPop
+![EvoPop](https://lh3.googleusercontent.com/-sR1HpcO87F4/VTGtpA4znMI/AAAAAAAAOL0/3kgWBbCPDZQ/s0-d-ip/evopop-theme.png)
+
+* https://github.com/solus-project/evopop-icon-theme/releases
