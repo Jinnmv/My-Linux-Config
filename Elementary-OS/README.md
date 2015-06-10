@@ -5,3 +5,7 @@ This section is about my notes related to after OS installation actions
 3. [SSD Configurations](SSD-configuration.md)
 4. [Elementary OS software](elementary-OS-software.md)
 5. [Themes and Appearance customization](themes.md)
+
+Resources:
+1. http://www.elementarynow.com/
+2. 
