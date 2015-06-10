@@ -7,5 +7,8 @@ This section is about my notes related to after OS installation actions
 5. [Themes and Appearance customization](themes.md)
 
 Resources:
-1. http://www.elementarynow.com/
-2. 
+
+1. http://elementary.io/ - official site
+2. http://elementary.today/
+3. http://www.elementarynow.com/ - russian comunity
+4. 
