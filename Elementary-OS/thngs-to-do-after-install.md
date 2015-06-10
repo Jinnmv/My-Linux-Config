@@ -24,3 +24,6 @@ Remove unneeded shortcuts
 There are two ways to have 256 colors supported in terminal
 1. dconf
 2. .bashrc, TERM=xterm-256color
+
+http://www.elementarynow.com/what-is-elementary-3/things-to-do/
+http://linuxscoop.com/video/20-things-to-do-after-installing-elementary-os-freya
