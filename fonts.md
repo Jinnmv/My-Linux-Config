@@ -65,6 +65,9 @@ http://terminus-font.sourceforge.net/
 ![TerminusRe33](http://citkit.ru/articles/1000/newfonts24.png)
 http://files.ax86.net/terminus-ttf/files/
 
+http://suseana.ru/?p=451
+http://suseana.ru/wp-content/files/terminusre33-bold.ttf.gz
+
 ## Menlo
 
 ## Monaco
