@@ -8,5 +8,5 @@
   * Zsh
 * Other stuff
   * [GIMP](gimp.md)
-
+  * [Splashes](splashes.md)
 * [Elementary OS](Elementary-OS/README.md)
