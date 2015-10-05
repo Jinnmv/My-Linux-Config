@@ -1,11 +1,11 @@
 # Icons
 
 > TODO:
-> Boston: http://gnome-look.org/content/show.php/Boston?content=171306
-> Vivacious Colors: http://gnome-look.org/content/show.php/Vivacious+Colors?content=170323
-> Xenlism: WildFire: http://gnome-look.org/content/show.php/Xenlism+%3A+WildFire?content=171253
-> Shadow: http://gnome-look.org/content/show.php/Shadow?content=170398
-> Super flat remix icon theme: http://gnome-look.org/content/show.php/Super+flat+remix+icon+theme?content=169073
+> * Boston: http://gnome-look.org/content/show.php/Boston?content=171306
+> * Vivacious Colors: http://gnome-look.org/content/show.php/Vivacious+Colors?content=170323
+> * Xenlism: WildFire: http://gnome-look.org/content/show.php/Xenlism+%3A+WildFire?content=171253
+> * Shadow: http://gnome-look.org/content/show.php/Shadow?content=170398
+> * Super flat remix icon theme: http://gnome-look.org/content/show.php/Super+flat+remix+icon+theme?content=169073
 
 
 # Matrilineare
