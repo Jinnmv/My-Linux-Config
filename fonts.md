@@ -44,6 +44,7 @@
 ## Liberation Mono
 
 ## DejaVu Mono
+Based on Biststream Vera Sans Mono
 
 ## Droid Sans Mono
 
@@ -68,9 +69,18 @@ http://files.ax86.net/terminus-ttf/files/
 http://suseana.ru/?p=451
 http://suseana.ru/wp-content/files/terminusre33-bold.ttf.gz
 
+## Hack
+![Hack](https://github.com/chrissimpkins/Hack/raw/master/img/hack-specimen-2.png)
+
+https://github.com/chrissimpkins/Hack
+
 ## Menlo
+Based on Biststream Vera Sans Mono
+![Menlo](http://s24.postimg.org/4hkuc8uz9/menlo2.png)
 
 ## Monaco
+![Monaco](http://hivelogic.com/images/u/monaco.png)
+https://github.com/cstrap/monaco-font
 
 # Monospaced Narrow
 
