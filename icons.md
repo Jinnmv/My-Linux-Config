@@ -6,6 +6,7 @@
 > * Xenlism: WildFire: http://gnome-look.org/content/show.php/Xenlism+%3A+WildFire?content=171253
 > * Shadow: http://gnome-look.org/content/show.php/Shadow?content=170398
 > * Super flat remix icon theme: http://gnome-look.org/content/show.php/Super+flat+remix+icon+theme?content=169073
+> * https://github.com/fabianalexisinostroza/El-General-Gnome
 
 
 # Matrilineare
