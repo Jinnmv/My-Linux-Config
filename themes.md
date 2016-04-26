@@ -3,6 +3,8 @@
 * [GNOME Shell Themes](#gnome-shell-themes)
 * [Other](#other)
 
+*TODO*:
+https://github.com/andreisergiu98/arc-flatabulous-theme
 
 # GTK3 Themes
 
