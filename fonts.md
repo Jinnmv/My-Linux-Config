@@ -83,6 +83,11 @@ Based on Biststream Vera Sans Mono
 
 https://github.com/cstrap/monaco-font
 
+## Monoid
+![Monoid](https://github.com/andreaslarsen/monoid/raw/master/Utilities/Images/MonoidReadme.png)
+
+http://larsenwork.com/monoid/
+
 # Monospaced Narrow
 
 ## Envy Code R
