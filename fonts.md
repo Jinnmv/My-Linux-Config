@@ -80,6 +80,7 @@ Based on Biststream Vera Sans Mono
 
 ## Monaco
 ![Monaco](http://hivelogic.com/images/u/monaco.png)
+
 https://github.com/cstrap/monaco-font
 
 # Monospaced Narrow
@@ -90,7 +91,7 @@ https://github.com/cstrap/monaco-font
 http://damieng.com/blog/2008/05/26/envy-code-r-preview-7-coding-font-released
 
 ## PragmataPro
-![PragmataPro](http://www.fsd.it/fonts/pragmatapro/pr+coding2.png)
+![PragmataPro](http://www.fsd.it/wp-content/uploads/2015/12/PragmataPro_Agnoster_theme.png)
 
 http://www.fsd.it/fonts/pragmatapro.htm
 
