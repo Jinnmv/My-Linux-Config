@@ -1,13 +1,40 @@
 # Icons
 
 > TODO:
-> * Boston: http://gnome-look.org/content/show.php/Boston?content=171306
 > * Vivacious Colors: http://gnome-look.org/content/show.php/Vivacious+Colors?content=170323
 > * Xenlism: WildFire: http://gnome-look.org/content/show.php/Xenlism+%3A+WildFire?content=171253
 > * Shadow: http://gnome-look.org/content/show.php/Shadow?content=170398
 > * Super flat remix icon theme: http://gnome-look.org/content/show.php/Super+flat+remix+icon+theme?content=169073
-> * https://github.com/fabianalexisinostroza/El-General-Gnome
+> * El General https://github.com/fabianalexisinostroza/El-General-Gnome
 
+# Alike
+![Alike](http://fc07.deviantart.net/fs70/f/2013/247/c/7/alike_icons_by_bokehlicia-d6l0uc6.png)
+
+* http://kxmylo.deviantart.com/art/alike-icons-398108310
+
+
+# Antu
+![Antu](https://cn.pling.com/img//hive/content-pre1/176085-1.png)
+https://www.gnome-look.org/p/1102787/
+
+# El General
+![El General preview](http://i.imgur.com/1Mq6VXn.png)
+
+* https://github.com/akaifi/El-General-Gnome
+
+
+# La Capitane
+![La Capitane](https://cn.pling.com/img/7/1/f/4/bc749b8b5db82372db85825279c2049362c5.png)
+
+* https://github.com/keeferrourke/la-capitaine-icon-theme
+* http://bokehlicia.deviantart.com/art/Pacifica-Icons-402508559
+* https://krourke.org/projects/art/la-capitaine-icon-theme
+
+
+# Boston
+![Boston](https://cn.pling.com/img/1/0/a/2/65394b10e9fe4d22ecf0a32a1895f961f580.png)
+* https://www.gnome-look.org/p/1012402/
+* http://diazchris.deviantart.com/art/Boston-Icons-558741523
 
 # Matrilineare
 ![Matrilineare](http://fc00.deviantart.net/fs70/f/2013/287/9/d/matrilineare__version_0_3__by_sora_meliae-d5bca17.png)
@@ -15,7 +42,7 @@
 * http://kexolino.deviantart.com/art/Matrilineare-version-0-3-321379531
 
 # Square
-![Square](http://gnome-look.org/CONTENT/content-pre1/163513-1.png)
+![Square](https://cn.pling.com/img//hive/content-pre1/163513-1.png)
 
 * https://sulpa.wordpress.com/2015/04/16/square-icons-set/
 * http://gnome-look.org/content/show.php/Square?content=163513
@@ -104,10 +131,6 @@ sudo apt-get install evolvere-icon-suite -y
 * http://kde-look.org/content/show.php?content=164181
 * https://github.com/franksouza183/EvolvereSuit
 
-# Alike
-![Alike](http://fc07.deviantart.net/fs70/f/2013/247/c/7/alike_icons_by_bokehlicia-d6l0uc6.png)
-
-* http://kxmylo.deviantart.com/art/alike-icons-398108310
 
 # Plastico
 ![Plastico](http://fc00.deviantart.net/fs70/f/2013/218/b/4/plastico_icons_by_kxmylo-d6gcv2w.png)
@@ -129,7 +152,6 @@ sudo apt-get update
 sudo apt-get install pacifica-icon-theme
 ```
 
-* http://bokehlicia.deviantart.com/art/Pacifica-Icons-402508559
 
 # Captiva
 ![Captiva](http://fc03.deviantart.net/fs70/f/2014/243/3/1/captiva_icon_theme_by_bokehlicia-d7xd4et.png)
