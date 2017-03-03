@@ -13,11 +13,14 @@
 * https://github.com/KELiON/cerebro
 * https://cerebroapp.com/
 
-* **Albert** https://github.com/ManuelSchneid3r/albert
+# Albert
+![Albert](https://raw.githubusercontent.com/ManuelSchneid3r/albert/master/v0.8.11.gif)
+* https://github.com/ManuelSchneid3r/albert
 
 # Mutate
-![Mutate](http://i.imgur.com/oIVCSqS.png)
+![Mutate](http://i.imgur.com/dyNHVwU.png)
 * https://github.com/qdore/Mutate
 
 # Slingscold
+![Slingscold](http://1.bp.blogspot.com/-0SQYwD6kYzM/U5ikVKYp4aI/AAAAAAAAI30/4wpp3dp4DM8/s1000/slingscold-launcher-1.jpg)
 * http://www.noobslab.com/2015/03/slingscold-launcher-fixed-for-all.html
