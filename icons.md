@@ -36,6 +36,11 @@ https://www.gnome-look.org/p/1102787/
 * https://www.gnome-look.org/p/1012402/
 * http://diazchris.deviantart.com/art/Boston-Icons-558741523
 
+# Arc Icon Theme
+![Preview](https://i.imgur.com/yCO1aeP.png)
+
+* https://github.com/horst3180/arc-icon-theme
+
 # Matrilineare
 ![Matrilineare](http://fc00.deviantart.net/fs70/f/2013/287/9/d/matrilineare__version_0_3__by_sora_meliae-d5bca17.png)
 
