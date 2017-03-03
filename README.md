@@ -8,5 +8,8 @@
   * Zsh
 * Other stuff
   * [GIMP](gimp.md)
+  * [Inkscape](inkscape.md)
   * [Splashes](splashes.md)
+* [Launchers](Launchers.md)
 * [Elementary OS](Elementary-OS/README.md)
+
