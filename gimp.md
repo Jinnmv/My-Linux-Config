@@ -17,3 +17,14 @@
 * http://doctormo.deviantart.com/art/Gimp-2-8-Photoshop-Tweaks-432736644
 * http://www.webupd8.org/2014/02/gimp-get-photoshop-like-keyboard.html
 
+
+# Gimp 2.8 Photoshop Tweaks
+![gimp-2.8-photoshop-tweaks](http://orig15.deviantart.net/06b2/f/2014/044/f/8/gimp_2_8_photoshop_tweaks_by_doctormo-d75n1qc.png)
+
+
+```sh
+sh -c "$(wget https://raw.githubusercontent.com/doctormo/GimpPs/master/tools/install.sh -O -)"
+```
+
+* https://github.com/doctormo/GimpPs
+* http://doctormo.deviantart.com/art/Gimp-2-8-Photoshop-Tweaks-432736644
