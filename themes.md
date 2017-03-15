@@ -16,6 +16,13 @@ https://github.com/andreisergiu98/arc-flatabulous-theme
 * Elementary OS
 * Unity
 
+## OSX Arc Collection 
+
+![A screenshot of the OSX-Arc-White theme](https://cn.pling.com/img/4/7/5/0/8c43c7300506520877db93f40e16f68005e8.png)
+
+* https://www.gnome-look.org/p/1167049/
+* https://github.com/LinxGem33
+
 ### Links
 * **Github**: https://github.com/horst3180/Arc-theme
 
