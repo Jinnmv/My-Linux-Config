@@ -16,15 +16,16 @@ https://github.com/andreisergiu98/arc-flatabulous-theme
 * Elementary OS
 * Unity
 
+### Links
+* **Github**: https://github.com/horst3180/Arc-theme
+
+
 ## OSX Arc Collection 
 
 ![A screenshot of the OSX-Arc-White theme](https://cn.pling.com/img/4/7/5/0/8c43c7300506520877db93f40e16f68005e8.png)
 
 * https://www.gnome-look.org/p/1167049/
 * https://github.com/LinxGem33
-
-### Links
-* **Github**: https://github.com/horst3180/Arc-theme
 
 
 ## Iris Dark
@@ -150,6 +151,16 @@ Chrome/Chromium and Frefox themes are included.
 * **Github**: http://www.deviantart.com/users/outgoing?https://github.com/lassekongo83/zuki-themes
 
 # GNOME Shell Themes
+
+## Gnome OSX
+![Gnome OSX](https://cn.pling.com/img/6/4/6/b/89aefde389ff8bb29e5e91d9b00e86171a93.jpg)
+
+* https://www.gnome-look.org/p/1171688/
+
+## macOS shell Theme 
+![macOS shell](https://cn.pling.com/img/7/7/4/3/9d5d67d74e2dc35098da4a05249f509171ec.jpg)
+
+* https://www.gnome-look.org/p/1171688/
 
 ## Shine
 ![Shine](http://fc03.deviantart.net/fs70/i/2012/174/b/a/gnome_shell___shine_by_satya164-d4e9crl.png)
