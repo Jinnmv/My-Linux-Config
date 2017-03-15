@@ -3,9 +3,6 @@
 * [GNOME Shell Themes](#gnome-shell-themes)
 * [Other](#other)
 
-*TODO*:
-https://github.com/andreisergiu98/arc-flatabulous-theme
-
 # GTK3 Themes
 
 ## Arc
@@ -27,6 +24,13 @@ https://github.com/andreisergiu98/arc-flatabulous-theme
 * https://www.gnome-look.org/p/1167049/
 * https://github.com/LinxGem33
 
+## Arc-Flatabulous Theme
+
+![Arc-Flatabulous](https://camo.githubusercontent.com/dc62b4c6643a951d28c5f0e428a4bdb3c5efa248/687474703a2f2f692e696d6775722e636f6d2f73474f454b364c2e706e67)
+
+> Arc-Flatabulous theme is the [Arc](https://github.com/horst3180/arc-theme) theme with [Flatabulous](https://github.com/anmoljagetia/Flatabulous) window controls.
+
+* https://github.com/andreisergiu98/arc-flatabulous-theme
 
 ## Iris Dark
 ![Iris Dark](http://orig10.deviantart.net/9cb1/f/2015/115/6/1/iris_dark_gtk_theme__v1_9_5_by_thevirtualdragon-d73sf8i.png)
