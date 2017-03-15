@@ -2,7 +2,6 @@
 
 > TODO:
 > * Vivacious Colors: http://gnome-look.org/content/show.php/Vivacious+Colors?content=170323
-> * Xenlism: WildFire: http://gnome-look.org/content/show.php/Xenlism+%3A+WildFire?content=171253
 > * Shadow: http://gnome-look.org/content/show.php/Shadow?content=170398
 > * Super flat remix icon theme: http://gnome-look.org/content/show.php/Super+flat+remix+icon+theme?content=169073
 > * El General https://github.com/fabianalexisinostroza/El-General-Gnome
@@ -40,6 +39,13 @@ https://www.gnome-look.org/p/1102787/
 ![Preview](https://i.imgur.com/yCO1aeP.png)
 
 * https://github.com/horst3180/arc-icon-theme
+
+# DamaDamas
+
+![DamaDamas](https://camo.githubusercontent.com/eb618a2b1c3ea2f84333767240786be8d15c38ec/687474703a2f2f692e68697a6c69726573696d2e636f6d2f6c334732454a2e706e67)
+
+* https://www.gnome-look.org/p/1171111/
+* https://github.com/sonakinci41/DamaDamas-icon-theme
 
 # Matrilineare
 ![Matrilineare](http://fc00.deviantart.net/fs70/f/2013/287/9/d/matrilineare__version_0_3__by_sora_meliae-d5bca17.png)
@@ -248,3 +254,10 @@ Comment=Vertex Icon theme
 ![EvoPop](https://lh3.googleusercontent.com/-sR1HpcO87F4/VTGtpA4znMI/AAAAAAAAOL0/3kgWBbCPDZQ/s0-d-ip/evopop-theme.png)
 
 * https://github.com/solus-project/evopop-icon-theme/releases
+
+# Xenlism: WildFire
+
+![Xenlism-WildFire](https://cn.pling.com/img//hive/content-pre1/171253-1.jpg)
+
+* http://gnome-look.org/content/show.php/Xenlism+%3A+WildFire?content=171253
+* https://xenlism.github.io/wildfire/
