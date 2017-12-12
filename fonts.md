@@ -26,7 +26,7 @@
 ## Plex
 by IBM
 https://ibm.github.io/type/
-
+![IBM Plex](img/ibm-plex-abb2.jpg)
 
 # Sans Narrow
 
