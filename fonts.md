@@ -23,6 +23,11 @@
 
 ## Roboto
 
+## Plex
+by IBM
+https://ibm.github.io/type/
+
+
 # Sans Narrow
 
 ## Play
