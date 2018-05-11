@@ -24,7 +24,7 @@
 * https://www.gnome-look.org/p/1167049/
 * https://github.com/LinxGem33
 
-## Arc-Flatabulous Theme
+## Arc-Flatabulous
 
 ![Arc-Flatabulous](https://camo.githubusercontent.com/dc62b4c6643a951d28c5f0e428a4bdb3c5efa248/687474703a2f2f692e696d6775722e636f6d2f73474f454b364c2e706e67)
 
@@ -32,8 +32,17 @@
 
 * https://github.com/andreisergiu98/arc-flatabulous-theme
 
+
+## Qogir
+
+![Qogir](https://raw.githubusercontent.com/vinceliuice/Qogir-theme/master/screenshots/screenshot01.png)
+
+### Links
+* **Github:** https://github.com/vinceliuice/Qogir-theme
+* **Gnome-Look**: https://www.gnome-look.org/p/1230631/
+
 ## Azure
-![Azure](https://github.com/vinceliuice/Azure-theme/raw/imgs/Azure-light.jpg?raw=true)
+![Azure](https://raw.githubusercontent.com/vinceliuice/Azure-theme/imgs/image1.jpeg)
 
 * **Github**: https://github.com/vinceliuice/Azure-theme
 
