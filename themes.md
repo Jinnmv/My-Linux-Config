@@ -14,7 +14,9 @@
 * Unity
 
 ### Links
-* **Github**: https://github.com/horst3180/Arc-theme
+* **Github**: https://github.com/horst3180/Arc-theme (seems unmaintainable anymore)
+
+Fork: https://github.com/NicoHood/arc-theme
 
 
 ## OSX Arc Collection 
