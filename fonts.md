@@ -75,7 +75,7 @@ http://suseana.ru/?p=451
 http://suseana.ru/wp-content/files/terminusre33-bold.ttf.gz
 
 ## Hack
-![Hack](https://github.com/chrissimpkins/Hack/raw/master/img/hack-specimen-2.png)
+![Hack](https://raw.githubusercontent.com/source-foundry/Hack/master/img/hack-specimen-3-crunch.png)
 
 https://github.com/chrissimpkins/Hack
 
