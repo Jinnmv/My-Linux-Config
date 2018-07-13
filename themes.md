@@ -53,6 +53,12 @@ Fork: https://github.com/NicoHood/arc-theme
 
 * https://www.gnome-look.org/p/1099856/
 
+## Flat Remix
+![Flat_Remix](https://raw.githubusercontent.com/daniruiz/Flat-Remix-GTK/master/1.png)
+
+* **Gnome-Look**: https://www.gnome-look.org/p/1214931/
+* **Github**: https://github.com/daniruiz/Flat-Remix-GTK
+
 ## Iris Dark
 ![Iris Dark](http://orig10.deviantart.net/9cb1/f/2015/115/6/1/iris_dark_gtk_theme__v1_9_5_by_thevirtualdragon-d73sf8i.png)
 
