@@ -19,7 +19,7 @@
 Fork: https://github.com/NicoHood/arc-theme
 
 
-## OSX Arc Collection 
+## OSX Arc Collection
 
 ![A screenshot of the OSX-Arc-White theme](https://cn.pling.com/img/4/7/5/0/8c43c7300506520877db93f40e16f68005e8.png)
 
@@ -58,6 +58,12 @@ Fork: https://github.com/NicoHood/arc-theme
 
 * **Gnome-Look**: https://www.gnome-look.org/p/1214931/
 * **Github**: https://github.com/daniruiz/Flat-Remix-GTK
+
+## Afflatus
+![Afflatus](https://cn.pling.com/img/e/6/7/d/b79665fb7304f896c55d98cb4fe2ff69fdfb.png)
+
+* **Gnome-Look**: https://www.gnome-look.org/p/1191004/
+* **Github**: https://github.com/nivekxyz/afflatus
 
 ## Iris Dark
 ![Iris Dark](http://orig10.deviantart.net/9cb1/f/2015/115/6/1/iris_dark_gtk_theme__v1_9_5_by_thevirtualdragon-d73sf8i.png)
