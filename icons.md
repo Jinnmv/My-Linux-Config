@@ -52,6 +52,12 @@ https://www.gnome-look.org/p/1102787/
 
 * http://kexolino.deviantart.com/art/Matrilineare-version-0-3-321379531
 
+# Newaita
+![Newaita](https://cn.pling.com/img/b/2/5/1/12c8d7e18929a2c5f020863c01513ca6ab02.png)
+
+* **Gnome-Look**: https://www.gnome-look.org/p/1243493/
+* **Github**: https://github.com/cbrnix/Newaita
+
 # Square
 ![Square](https://cn.pling.com/img//hive/content-pre1/163513-1.png)
 
