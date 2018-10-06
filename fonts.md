@@ -1,4 +1,6 @@
+# Serif
 
+## Tinos
 
 # Sans
 
@@ -27,6 +29,10 @@
 by IBM
 https://ibm.github.io/type/
 ![IBM Plex](img/ibm-plex-abb2.jpg)
+
+## Arimo
+
+## Sans Forgetica
 
 # Sans Narrow
 
