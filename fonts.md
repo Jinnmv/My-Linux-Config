@@ -34,6 +34,10 @@ https://ibm.github.io/type/
 
 ## Sans Forgetica
 
+## Inter
+https://rsms.me/inter/
+https://github.com/rsms/inter
+
 # Sans Narrow
 
 ## Play
