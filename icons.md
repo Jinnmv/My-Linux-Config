@@ -5,6 +5,7 @@
 > * Shadow: http://gnome-look.org/content/show.php/Shadow?content=170398
 > * Super flat remix icon theme: http://gnome-look.org/content/show.php/Super+flat+remix+icon+theme?content=169073
 > * El General https://github.com/fabianalexisinostroza/El-General-Gnome
+> * https://github.com/vinceliuice/Tela-icon-theme https://www.gnome-look.org/p/1279924/
 
 # Alike
 ![Alike](http://fc07.deviantart.net/fs70/f/2013/247/c/7/alike_icons_by_bokehlicia-d6l0uc6.png)
