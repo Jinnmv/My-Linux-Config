@@ -27,8 +27,10 @@
 
 ## Plex
 by IBM
-https://ibm.github.io/type/
+* https://www.ibm.com/plex/
+* https://github.com/IBM/plex
 ![IBM Plex](img/ibm-plex-abb2.jpg)
+![IBM Plex](https://upload.wikimedia.org/wikipedia/commons/3/32/IBM_Plex_Sans_sample.svg)
 
 ## Arimo
 
@@ -38,7 +40,7 @@ Sans Forgetica is more difficult to read than most typefaces – and that’s by
 
 * https://sansforgetica.rmit/
 
-![Sans Forgetica](font_sample_sans-forgetica.png)
+![Sans Forgetica](img/font_sample_sans-forgetica.png)
 
 ## Inter
 Inter features a tall x-height to aid in readability of mixed-case and lower-case text. Several OpenType features are provided as well, like contextual alternates that adjusts punctuation depending on the shape of surrounding glyphs, slashed zero for when you need to disambiguate "0" from "o", tabular numbers, etc. 
