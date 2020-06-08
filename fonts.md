@@ -37,6 +37,7 @@ https://ibm.github.io/type/
 ## Inter
 https://rsms.me/inter/
 https://github.com/rsms/inter
+![Inter](img/inter_font_sample.png)
 
 # Sans Narrow
 
