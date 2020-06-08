@@ -26,6 +26,12 @@ Source Sans Pro is a set of OpenType fonts that have been designed to work well 
 
 ## Fira Sans
 
+* https://mozilla.github.io/Fira/
+* https://github.com/mozilla/Fira
+* https://github.com/bBoxType/FiraSans
+
+![Fira Sans](https://il.static.1001fonts.net/f/i/fira-sans-font-4-big.png)
+
 ## Roboto
 
 ## Plex
