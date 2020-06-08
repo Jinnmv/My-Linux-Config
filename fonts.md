@@ -15,6 +15,9 @@
 ![PT Sans](http://cdn1.fontsquirrel.com/fnt_imgs/6d/4b81/7a866ca44e8b45d0b551e3614e/sa-720x300.png)
 
 ## Source Sans Pro
+Source Sans Pro is a set of OpenType fonts that have been designed to work well in user interface (UI) environments.
+* https://adobe-fonts.github.io/source-sans-pro/
+* https://github.com/adobe-fonts/source-sans-pro
 ![Source Sans Pro](http://cdn2.fontsquirrel.com/fnt_imgs/d6/cd47/77dc581913c8b247b8bd44e02b/sa-720x300.png)
 
 ## Droid Sans
@@ -30,7 +33,7 @@ by IBM
 * https://www.ibm.com/plex/
 * https://github.com/IBM/plex
 ![IBM Plex](img/ibm-plex-abb2.jpg)
-![IBM Plex](https://upload.wikimedia.org/wikipedia/commons/3/32/IBM_Plex_Sans_sample.svg)
+![IBM Plex Sans](https://upload.wikimedia.org/wikipedia/commons/3/32/IBM_Plex_Sans_sample.svg)
 
 ## Arimo
 
@@ -91,6 +94,7 @@ https://github.com/adobe-fonts/source-code-pro/releases/latest
 http://terminus-font.sourceforge.net/
 
 ![TerminusRe33](http://citkit.ru/articles/1000/newfonts24.png)
+
 http://files.ax86.net/terminus-ttf/files/
 
 http://suseana.ru/?p=451
@@ -132,3 +136,9 @@ https://be5invis.github.io/Iosevka/
 
 http://www.fsd.it/fonts/pragmatapro.htm
 
+# Icons
+## Nerd Fonts
+Nerd Fonts is a project that patches developer targeted fonts with a high number of glyphs (icons). Specifically to add a high number of extra glyphs from popular 'iconic fonts' such as Font Awesome, Devicons, Octicons, and others.
+* https://www.nerdfonts.com/
+* https://github.com/ryanoasis/nerd-fonts
+![Nerd Fonts](https://github.com/ryanoasis/nerd-fonts/raw/master/images/sankey-glyphs-combined-diagram.svg)
