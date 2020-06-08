@@ -34,9 +34,18 @@ https://ibm.github.io/type/
 
 ## Sans Forgetica
 
+Sans Forgetica is more difficult to read than most typefaces – and that’s by design. The 'desirable difficulty' you experience when reading information formatted in Sans Forgetica prompts your brain to engage in deeper processing.
+
+* https://sansforgetica.rmit/
+
+![Sans Forgetica](font_sample_sans-forgetica.png)
+
 ## Inter
-https://rsms.me/inter/
-https://github.com/rsms/inter
+Inter features a tall x-height to aid in readability of mixed-case and lower-case text. Several OpenType features are provided as well, like contextual alternates that adjusts punctuation depending on the shape of surrounding glyphs, slashed zero for when you need to disambiguate "0" from "o", tabular numbers, etc. 
+
+* https://rsms.me/inter/
+* https://github.com/rsms/inter
+
 ![Inter](img/inter_font_sample.png)
 
 # Sans Narrow
